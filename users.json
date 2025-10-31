@@ -1,0 +1,12 @@
+{
+  "current_user": "Daniel",
+  "users": {
+    "Daniel": {
+      "tests_completed": 16,
+      "total_wpm": 615.0,
+      "best_wpm": 50,
+      "total_accuracy": 1304.925740685925,
+      "best_accuracy": 96.8
+    }
+  }
+}
